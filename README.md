@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer based in 🌍 Cameroon, specializing in bu
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🛒 Link Sharing](https://github.com/G4EVA-dev/Link-Sharing-App-.git) | A personalized link-sharing platform with Firebase Auth and Firestore. | React, Next.js, Firebase |
-| [🎮 Coin Toss Game](https://github.com/your-repo/coin-toss) | Simple game built with React and served via route in a full Vite playground. | React, Vite |
+| [🎮 V-Scent](https://github.com/G4EVA-dev/v-scent.git) | Simple game built with React and served via route in a full Vite playground. | React, Vite |
 | [📷 AI Image Conversion](https://github.com/your-repo/image-conversion) | Convert images and add watermarks using AI & custom UI components. | Next.js, Tailwind, React-Quill |
 
 👉 _More on my pinned repositories below!_
