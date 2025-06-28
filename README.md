@@ -1,6 +1,5 @@
 # 👋🏾 Hi, I'm Glenn Tanze — Full Stack Developer | Problem Solver | Builder of Scalable Web and Mobile Solutions
 
-![Glenn's GitHub Banner](https://your-image-url-here) <!-- Optional: Replace with your actual banner URL -->
 
 I'm a passionate Full Stack Developer based in 🌍 Cameroon, specializing in building dynamic, responsive, and scalable web and mobile applications from concept to deployment. Whether it’s frontend aesthetics or backend logic, I bring the entire tech stack to life with performance, accessibility, and user experience in mind.
 
