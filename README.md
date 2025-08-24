@@ -57,7 +57,7 @@ I'm a passionate Full Stack Developer based in 🌍 Cameroon, specializing in bu
 |--------|-------------|------------|
 | [🛒 Link Sharing](https://github.com/G4EVA-dev/Link-Sharing-App-.git) | A personalized link-sharing platform with Firebase Auth and Firestore. | React, Next.js, Firebase |
 | [🎮 V-Scent](https://github.com/G4EVA-dev/v-scent.git) | V-Scent Aura is a luxury perfume brand website that showcases a collection of unique fragrances. The website is built using Next.js and features a modern, responsive design with interactive elements. | Next.js, Tailwind, GeminiAI, Framer Motion |
-| [📷 AI Image Conversion](https://github.com/G4EVA-dev/schedule-pro) | A modern, full-stack appointment scheduling and business management platform designed for service businesses. Schedule Pro provides seamless calendar booking, notifications, analytics, client management, and more, all powered by Next.js, Convex, and a robust UI built with Radix UI and TailwindCSS.
+| [SchedulePro](https://github.com/G4EVA-dev/schedule-pro) | A modern, full-stack appointment scheduling and business management platform designed for service businesses. Schedule Pro provides seamless calendar booking, notifications, analytics, client management, and more, all powered by Next.js, Convex, and a robust UI built with Radix UI and TailwindCSS.
 
 . | Next.js, Tailwind, React-Quill |
 
