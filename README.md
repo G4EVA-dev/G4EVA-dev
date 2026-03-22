@@ -80,7 +80,7 @@ I'm a passionate Full Stack Developer based in 🌍 Cameroon, specializing in bu
 
 I'm always open to exciting opportunities, collaborations, and community contributions. Let’s build something amazing together.
 
-- 🔗 [portfolio-coming-soon](https://your-portfolio-link.com)
+- 🔗 [portfolio-coming-soon](https://www.glenn-tanze.xyz)
 - 🐦 [Twitter](https://x.com/GlennTanze)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanze-glenn)
 - 💌 Email: `tanzeglenn@gmail.com`
